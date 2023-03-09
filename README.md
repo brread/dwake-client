@@ -6,4 +6,4 @@
   - Uncapped FPS
   - Discord RPC
 
-## ![[discord](https://discordapp.com/api/guilds/1083525284030066790/widget.png?style=banner2)](https://discord.gg/nWAc3mwT4s)
+## [![discord](https://discordapp.com/api/guilds/1083525284030066790/widget.png?style=banner2)](https://discord.gg/nWAc3mwT4s)
