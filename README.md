@@ -1,4 +1,4 @@
-# [splash text](https://i.imgur.com/NEZr8CB.png)
+# ![splash text](https://i.imgur.com/NEZr8CB.png)
 
 Official dwake.io client
 
